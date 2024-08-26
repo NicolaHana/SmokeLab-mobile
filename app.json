@@ -1,0 +1,8 @@
+{
+    "name": "Smokelab",
+    "displayName": "SmokeLab",
+    "react-native-google-mobile-ads": {
+        "android_app_id": "ca-app-pub-6093468591464222~4564070464",
+        "ios_app_id": "ca-app-pub-6093468591464222~9235581675"
+    }
+}

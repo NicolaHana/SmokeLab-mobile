@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "495545544239",
+    "project_id": "smokelab-913bd",
+    "storage_bucket": "smokelab-913bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495545544239:android:2c5e984fc56d21977120da",
+        "android_client_info": {
+          "package_name": "com.smokelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495545544239-ba8pmodonnpu483vaii5r8edmnbebbf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMF3TTQC9bNfonYwT_BPSLrB0M2-v-6II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495545544239-ba8pmodonnpu483vaii5r8edmnbebbf9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "495545544239-hnfqng39ebtl6cskursm7qhoejq6uc99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smokelab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

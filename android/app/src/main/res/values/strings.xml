@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">SmokeLab</string>
+    <!-- <string name="facebook_app_id" translatable="false">1083418192828938</string> -->
+    <!-- <string name="facebook_app_id" translatable="false">2019743915086758</string> -->
+    <string name="facebook_app_id" translatable="false">1091859595411123</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <!-- <string name="facebook_client_token" translatable="false">3d2401c433c70e4500116b36e728ec6a</string> -->
+    <string name="facebook_client_token" translatable="false">cb21d49f9b5d11ec5d2ab431647d41ea</string>
+</resources>

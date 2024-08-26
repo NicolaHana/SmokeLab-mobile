@@ -1,0 +1,157 @@
+{
+  "identifier" : "95ACA1DA",
+  "nonRenewingSubscriptions" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "6450650694",
+      "localizations" : [
+        {
+          "description" : "3 Cooks for $4.99 with Ads",
+          "displayName" : "SmokeLab",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "sl_4.99_th_cooks",
+      "referenceName" : "3 Cooks for $4.99 with Ads",
+      "type" : "NonRenewingSubscription"
+    }
+  ],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "internalID" : "6473883021",
+      "localizations" : [
+        {
+          "description" : "3 Cooks for $4.99 with Ads - 1",
+          "displayName" : "Smokelab",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "sl_4.99_th_cooks_iap",
+      "referenceName" : "3 Cooks for $4.99 with Ads - 1",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1662751718",
+    "_developerTeamID" : "TFKLX47LBW",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 723644733.16098702,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21342641",
+      "localizations" : [
+
+      ],
+      "name" : "Cook Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "49.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6473876662",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited cooks for $49.99/yr",
+              "displayName" : "SmokeLab",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "sl_49.99_ul_cooks",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Unlimited Cooks - $49.99/yr No Ads",
+          "subscriptionGroupID" : "21342641",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6450650171",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited cooks for $6.99/mo",
+              "displayName" : "SmokeLab",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "sl_6.99_ul_cooks",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Unlimited Cooks - $6.99/mo No Ads",
+          "subscriptionGroupID" : "21342641",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
